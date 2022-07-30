@@ -1,0 +1,21 @@
+PatientName,Hospital,PatientDiagnosis,PatientDiagnosisNotes,PatientTreatment
+Sam Albert,CGH-11-SG,Stroke ,"Ischaemetric stroke seen with sudden palpitations, loss of speech, weakness and severe headache. No internal bleeds found",Treated with thrombolysis and anticoagulants
+Lucy Wyndham,KKH-34-SG,Stroke ,"Ischaemetric stroke seen with sudden palpitations, loss of speech, weakness and severe headache. No internal bleeds found","Treated with statins due to higher cholestrols and periodic supplements of nutritives, Carotid endarterectomy performed on patient"
+Ayesha Choudhury,NUH-45-SG,Cardiac Arrest ,"Sudden 15/10 ache in chest, followed by unconciousness and palpitations. Electrocardiogram (ECG or EKG) - Positive
+Blood tests - Positive
+Chest X-ray - Negative
+Echocardiogram - Positive
+Coronary catheterization (angiogram) - Positive
+based on selective result calculation, declared illness",Treated with angioplasty surgery and IV for 60 hours
+Yasmin Smiths,KKH-34-SG,NSCLC,Biopsy test conducted followed by microchemical test assayed in proper format through lab. 1.55mm tumor test malign and intrepret as stage II cancer,Oxygen supplement sufficiently provided for 48 hours with periodic administration of IV08 for 72 hours. Immunotherapy (Target) suggested for reduction of malignous tumor
+Lee Huang Ng,FPH- 56-SG,Stroke ,"Ischaemetric stroke seen with sudden palpitations, loss of speech, weakness and severe headache. No internal bleeds found","Treated with statins due to higher cholestrols and periodic supplements of nutritives, Carotid endarterectomy performed on patient"
+Mohd Bin Nasir Ahmed,CGH-11-SG,Cardiac Arrest ,"Sudden 15/10 ache in chest, followed by unconciousness and palpitations. Electrocardiogram (ECG or EKG) - Positive
+Blood tests - Positive
+Chest X-ray - Negative
+Echocardiogram - Positive
+Coronary catheterization (angiogram) - Positive
+based on selective result calculation, declared illness",Treated with angioplasty surgery and IV for 60 hours
+Tom Erwell,MEH-13-SG,Brain Haemmohage,patient observed with piercing migrain and period unconciousness. Anemic patient for 12 years causing lack of transpiration of blood through vessels leading to acutely size haemmorhage after injury previous week,Administration of fibrosis removal of clot and administration of 67VUI9 for 89 hours 
+James Wee Cheng ,PEH-14-SG,Stroke ,"Ischaemetric stroke seen with sudden palpitations, loss of speech, weakness and severe headache. No internal bleeds found",Treated with thrombolysis and anticoagulants
+Benjamin Zhong,NUH-45-SG,Brain Haemmohage,patient observed with piercing migrain and period unconciousness. Anemic patient for 12 years causing lack of transpiration of blood through vessels leading to acutely size haemmorhage after injury previous week,Administration of fibrosis removal of clot and administration of 67VUI9 for 89 hours 
+Phuay Thar Zhint ,FPH- 56-SG,SCLC,Biopsy test conducted followed by microchemical test assayed in proper format through lab. 1.55mm tumor test malign and intrepret as stage II cancer,
